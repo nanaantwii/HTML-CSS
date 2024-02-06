@@ -21,8 +21,8 @@ This website is designed as a peaceful sanctuary for individuals seeking to expl
 To view the website locally on your machine, clone the repository and open the `index.html` file in your web browser.
 
 ```bash
-git clone https://github.com/captainteknics/meditation-yoga-website.git
-cd meditation-yoga-website
+git clone https://nanaantwii.github.io/test/
+cd test
 # Open index.html in your web browser
 Contributing
 Contributions to enhance the website or add new features are welcome. Please follow these steps to contribute:
@@ -37,7 +37,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 
-Project Link: https://captainteknics.github.io/html-css-essentials/
+Project Link: https://github.com/nanaantwii/test.git
 Acknowledgements
 Normalize.css for CSS reset.
 Font Awesome for icons.
